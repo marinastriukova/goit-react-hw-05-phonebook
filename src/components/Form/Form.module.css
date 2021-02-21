@@ -1,0 +1,20 @@
+.form{
+display: flex;
+flex-direction: column;
+width: 400px;
+}
+
+.formLabel{
+    display: flex;
+    flex-direction: column;    
+}
+
+.formInput{
+margin: 5px 0;
+padding: 5px;
+}
+
+.formButton{
+padding: 10px;
+margin-top: 10px;
+}

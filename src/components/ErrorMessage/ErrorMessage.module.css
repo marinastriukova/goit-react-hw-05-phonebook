@@ -1,0 +1,12 @@
+.alert{
+    background-color: crimson;
+  color: #ffffff;
+  font-size: 20px;
+  font: 500;
+  padding: 10px;
+  margin: 0;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  text-transform: uppercase;
+}

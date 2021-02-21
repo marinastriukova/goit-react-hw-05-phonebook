@@ -1,0 +1,20 @@
+.section{
+    background-color: rgb(161, 165, 218);
+    padding: 15px;
+}
+
+.title{
+    font-size: 40px;
+    margin: 0;
+}
+
+.appear {
+    transform: translateX(-100%);
+    opacity: 0.1;
+  }
+
+.appearActive {
+    transform: translateX(0);
+    opacity: 1;
+    transition: all 500ms ease-in;
+  }
